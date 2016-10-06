@@ -1,1 +1,1 @@
-Hello I am Kang Soon
+Hello I am Kang Soon. My surname is Tan.
