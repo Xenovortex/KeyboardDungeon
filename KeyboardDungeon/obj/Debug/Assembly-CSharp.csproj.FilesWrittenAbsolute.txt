@@ -1,0 +1,17 @@
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/UnityEngine.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/UnityEditor.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/obj/Debug/Assembly-CSharp.dll
+/Users/tankangsoon/KeyboardDungeon/KeyboardDungeon/obj/Debug/Assembly-CSharp.dll.mdb
