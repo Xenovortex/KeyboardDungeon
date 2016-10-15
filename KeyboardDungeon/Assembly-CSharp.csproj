@@ -45,6 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Leo_testing stuff\Scripts\MoveEnemy.cs" />
+     <Compile Include="Assets\Leo_testing stuff\Scripts\SpawnEnemy.cs" />
      <Compile Include="Assets\Scripts\Trap.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
